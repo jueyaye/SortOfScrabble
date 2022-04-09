@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-draggable": "^4.0.3",
