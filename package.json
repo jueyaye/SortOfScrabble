@@ -8,7 +8,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-draggable": "^4.0.3",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.1.0",
     "prettier": "^1.18.2",
     "supertest": "^4.0.2"
   },
